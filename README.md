@@ -3,6 +3,13 @@
 ## About:
 Have a different wallpaper on each GNOME workspace.
 
+# Note:
+    If you wanna make it usable on gnome 42 dark try changing
+    ```
+        "picture-uri" to "picture-uri-dark"
+    ```
+    in two files every where on the repository.They are extension.js and prefs.js.
+
 ## Installation:
 Compile the extension by running
 ```
